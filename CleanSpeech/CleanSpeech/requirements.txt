@@ -1,5 +1,0 @@
-better-profanity
-discord-py
-Flask
-python-dotenv
-gunicorn
